@@ -1,1 +1,1 @@
-# DiwataServer.github.io
+# Welcome to Diwata Server
